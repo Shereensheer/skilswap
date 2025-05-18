@@ -83,8 +83,8 @@ class SkillSwapApp:
                     },
                 ],
                 mode="payment",
-                success_url="http://localhost:8501/?success=true",
-                cancel_url="http://localhost:8501/?canceled=true",
+             success_url="https://skillswap-g8um548wvrdy8quzmezfcj.streamlit.app/?success=true",
+             cancel_url="https://skillswap-g8um548wvrdy8quzmezfcj.streamlit.app/?canceled=true",
             )
             return checkout_session.url
         except Exception as e:
