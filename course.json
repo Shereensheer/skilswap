@@ -1,0 +1,27 @@
+[
+  {
+    "name": "TypeScript for Beginners",
+    "description": "Learn TypeScript, the powerful typed superset of JavaScript, to write safer code.",
+    "price": 1800
+  },
+  {
+    "name": "Next.js Complete Guide",
+    "description": "Build fast and scalable React apps with Next.js framework.",
+    "price": 2200
+  },
+  {
+    "name": "Basic Python Programming",
+    "description": "Start your Python journey with fundamentals and core concepts.",
+    "price": 1500
+  },
+  {
+    "name": "Advanced Python Programming",
+    "description": "Dive deeper into Python with advanced topics and real-world projects.",
+    "price": 3000
+  },
+  {
+    "name": "HTML, CSS & UI/UX Design",
+    "description": "Master front-end basics and design principles for beautiful, user-friendly websites.",
+    "price": 2000
+  }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Python Basics",
+        "description": "Learn Python from scratch",
+        "price": 0
+    },
+    {
+        "name": "Web Development",
+        "description": "HTML, CSS, JS course for beginners",
+        "price": 199
+    },
+    {
+        "name": "Data Science",
+        "description": "Intro to Data Analysis using Pandas",
+        "price": 299
+    },
+    {
+        "name": "typescript",
+        "description": "basic",
+        "price": 100
+    },
+    {
+        "name": "typescript",
+        "description": "Advance",
+        "price": 200
+    },
+    {
+        "name": "Nextjs",
+        "description": "Basic",
+        "price": 200
+    },
+    {
+        "name": "Nextjs",
+        "description": "Advance",
+        "price": 300
+    },
+    {
+        "name": "C ++",
+        "description": "Basic",
+        "price": 100
+    }
+]
